@@ -1,0 +1,40 @@
+p {
+border-bottom: 12px;
+text-align: center;
+}
+
+h1, h2, h3 {
+form-weighr: Normal;
+text-align: center;
+}
+
+h1{
+form-size: 36px;
+margin-bottom: 0;
+}
+
+h2 {
+form-size: 32px;
+border-bottom: 1px solid #808080;
+margin-bottom: 8px;
+}
+
+.header-title{
+form-size: 18px;
+border-bottom: none;
+margin-bottom: 10px;
+}
+
+
+#header{
+margin-bottom: 32px;
+text-align: center;
+}
+
+#footer{
+margin-top: 64px;
+text-align: center;
+}
+
+div, li, ul {
+text-align: center;
